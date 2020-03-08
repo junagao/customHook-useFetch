@@ -1,2 +1,3 @@
-# customHook-useFetch
-Created with CodeSandbox
+# Instructions:
+
+Implement the `useFetch` function.
